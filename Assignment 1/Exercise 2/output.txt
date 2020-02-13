@@ -1,0 +1,10 @@
+Each star represents up to 3 words
+banquo ************ 34
+cloud * 1
+deed ***** 14
+doctor *** 8
+fit ** 4
+friends **** 10
+intent * 1
+prince * 2
+python 0
